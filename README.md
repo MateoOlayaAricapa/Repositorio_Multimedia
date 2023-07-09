@@ -8,6 +8,7 @@ Se utilizó el IDE de Netbeans, MySQL, SQL, Base de datos relacionales y Rest AP
 
 ## Autor/es:
 * **Mateo Olaya Aricapa**
+* **Jose David Gomez**
 
 ## Contacto:
 * LinkedIn: www.linkedin.com/in/mateoolayaaricapa
